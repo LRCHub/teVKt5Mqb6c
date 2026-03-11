@@ -1,0 +1,70 @@
+# Hiroyuki Sawano – Warcry
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Don't you know that I'm a big old mix of kabane?
+Yes, I am
+You can bet I would go back to battlefield
+And I would save your sister
+
+Without her there would be no you and me
+I can feel your savior, my destiny
+Like fool I believe this can change
+
+Let out power of your soul
+Don't give up on tomorrow
+Have you got something that I wanna save?
+Just as bodies will rise
+The weak have to fall
+Hey now
+We'll never give up my dear not a short time
+Just like the world turning around
+Won't stop, like a war
+I won't give in
+No no oh oh
+No no oh oh
+No no oh oh
+No no oh oh
+
+I can feel your blood pumping around this
+Kabane
+Yes, I am
+You can bet
+I would go back to the battlefield
+And I would save you sister
+
+Without her there would be no you and me
+I can feel your savior, my destiny
+Like a fool I believe this can change
+
+Let out power of your soul
+Don't give up on tomorrow
+Have you got something that I wanna save?
+Just as bodies will rise
+The weak have to fall
+Hey now
+We'll never give up my dear not a short time
+Just like the world turning around
+Won't stop, like a war
+I won't give in
+No no oh oh
+No no oh oh
+No no oh oh
+No no oh oh
+
+And now you are on your own
+Don't give up on tomorrow
+Have you got something that I wanna save?
+Just as bodies will rise
+The weak have to fall
+Hey now
+We'll never give up my dear not a short time
+Just like the world turning around
+Won't stop, like a war
+I won't give in
+No no oh oh
+No no oh oh
+No no oh oh
+No no oh oh
+```
