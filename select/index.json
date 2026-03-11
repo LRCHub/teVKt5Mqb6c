@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Warcry",
+  "base_artist": "Hiroyuki Sawano",
+  "createdAt": "2026-03-11T02:54:33.826132Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Unholy Warcry",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/01_Unholy_Warcry_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Unholy Warcry (Edited Version)",
+      "artist": "Rhapsody of Fire",
+      "has_synced": false,
+      "path": "select/02_Unholy_Warcry_(Edited_Version)_Rhapsody_of_Fire.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Unholy Warcry (edit version)",
+      "artist": "Rhapsody of Fire",
+      "has_synced": false,
+      "path": "select/03_Unholy_Warcry_(edit_version)_Rhapsody_of_Fire.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "La Tormenta (feat. Víctor García & Warcry)",
+      "artist": "Zenobia",
+      "has_synced": true,
+      "path": "select/04_La_Tormenta_(feat._Víctor_García_&_Warcry)_Zenobia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Warcry",
+      "artist": "澤野弘之",
+      "has_synced": true,
+      "path": "select/05_Warcry_澤野弘之.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Warcry",
+      "artist": "mpi",
+      "has_synced": true,
+      "path": "select/06_Warcry_mpi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Warcry",
+      "artist": "In Hearts Wake",
+      "has_synced": false,
+      "path": "select/07_Warcry_In_Hearts_Wake.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Unholy Warcry",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/08_Unholy_Warcry_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Unholy Warcry (Live)",
+      "artist": "Rhapsody",
+      "has_synced": false,
+      "path": "select/09_Unholy_Warcry_(Live)_Rhapsody.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Warcry",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/10_Warcry_澤野弘之.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Warcry",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/11_Warcry_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Warcry",
+      "artist": "Shadow Gallery",
+      "has_synced": true,
+      "path": "select/12_Warcry_Shadow_Gallery.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Unholy Warcry",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/13_Unholy_Warcry_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Unholy Warcry",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/14_Unholy_Warcry_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Warcry",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_01_Warcry_澤野弘之.txt"
+    }
+  ]
+}
